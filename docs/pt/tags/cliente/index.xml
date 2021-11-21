@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cliente on Esta é a língua potuguesa</title>
+    <link>https://icocor.github.io/dawico/pt/tags/cliente/</link>
+    <description>Recent content in cliente on Esta é a língua potuguesa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://icocor.github.io/dawico/pt/tags/cliente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> DWAC</title>
+      <link>https://icocor.github.io/dawico/pt/dwec/</link>
+      <pubDate>Sat, 20 Nov 2021 11:35:08 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/dwec/</guid>
+      <description>DWEC Desarrollo Web en Entorno Cliente Te damos la bienvenida al módulo &amp;ldquo;Desarrollo Web en Entorno Cliente&amp;rdquo; del Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web.
+Dentro de esta plataforma virtual dispondrás de información, orientaciones, herramientas de comunicación (mensajería, foros, chat,&amp;hellip;), contenidos, actividades y valoración de las mismas, que consideramos las más adecuadas para el desarrollo del curso.
+Teoría
+Practica
+   VSCode   JavaScript  </description>
+    </item>
+  </channel>
+</rss>

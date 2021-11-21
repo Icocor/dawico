@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> DWEC on Este es el idioma Español</title>
+    <link>https://icocor.github.io/dawico/dwec/</link>
+    <description>Recent content in  DWEC on Este es el idioma Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 11:35:08 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/dwec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoría</title>
+      <link>https://icocor.github.io/dawico/dwec/teoria/</link>
+      <pubDate>Sun, 07 Nov 2021 06:15:09 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/teoria/</guid>
+      <description>Teoría ÍNDICE POR UNIDADES DE TRABAJO  Introducción
+ UT1. Arquitecturas y lenguajes de programación en clientes web.
+ Desarrollo web Lenguajes de programación en clientes web Herramientas y utilidades de programación Integración de código Javascript con HTML  UT2. Estructura del lenguaje javascript.
+ Fundamentos deJavascript  </description>
+    </item>
+    <item>
+      <title>Prácticas</title>
+      <link>https://icocor.github.io/dawico/dwec/practica/</link>
+      <pubDate>Sat, 20 Nov 2021 11:35:08 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/practica/</guid>
+      <description>Prácticas Primera Evaluación T01 T02  </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoría on Este es el idioma Español</title>
+    <link>https://icocor.github.io/dawico/dwec/teoria/</link>
+    <description>Recent content in Teoría on Este es el idioma Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 06:15:09 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/dwec/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UT1</title>
+      <link>https://icocor.github.io/dawico/dwec/teoria/ut1/</link>
+      <pubDate>Sun, 07 Nov 2021 06:14:44 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/teoria/ut1/</guid>
+      <description> AvisoSitio en construcción en estos momentos.
+Le agradecemos que mantenga la distancia de seguridad adecuada para que podamos seguir trabajando.
+ </description>
+    </item>
+    <item>
+      <title>UT2</title>
+      <link>https://icocor.github.io/dawico/dwec/teoria/ut2/</link>
+      <pubDate>Sun, 07 Nov 2021 06:15:09 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/teoria/ut2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> IAW on Esta é a língua potuguesa</title>
+    <link>https://icocor.github.io/dawico/pt/daw/</link>
+    <description>Recent content in  IAW on Esta é a língua potuguesa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 06:01:19 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/pt/daw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoría</title>
+      <link>https://icocor.github.io/dawico/pt/daw/teoria/</link>
+      <pubDate>Fri, 19 Nov 2021 04:30:24 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/daw/teoria/</guid>
+      <description>Teoría ÍNDICE POR UNIDADES FORMATIVAS  Introducción
+ UF1. Servidor Web y Transferencia de Archivos
+ Implantación de arquitecturaWeb Administración de servidores Web Instalación y administración de servidores det ransferencia de archivos  UF2. Servidores de Aplicaciones Web
+ Administración de servidores de aplicaciones  UF3. Aplicaciones Web
+ Servicios de red implicados en el desarrollo de una aplicación web  UF4. Control de Versiones y Documentación
+ Documentación y sistemas de control de versiones  </description>
+    </item>
+    <item>
+      <title>Prática</title>
+      <link>https://icocor.github.io/dawico/pt/daw/practica/</link>
+      <pubDate>Fri, 19 Nov 2021 06:01:19 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/daw/practica/</guid>
+      <description>PRÁCTICAS    Servidor Web y Transferencia de Archivos  Arquitectura Web
+Servidor Aplicaciones
+Administración de Servidores Web
+Modelo Cliente-Servidor
+      Servidores de Aplicaciones Web  Servidor de Aplicaciones Web
+Tomcat
+Gestión del Servidor de Aplicaciones
+   </description>
+    </item>
+  </channel>
+</rss>

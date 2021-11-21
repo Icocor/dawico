@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory on This is the English language</title>
+    <link>https://icocor.github.io/dawico/en/diw/teoria/</link>
+    <description>Recent content in Theory on This is the English language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 11:05:38 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/en/diw/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UF1</title>
+      <link>https://icocor.github.io/dawico/en/diw/teoria/uf1/</link>
+      <pubDate>Sat, 20 Nov 2021 11:04:42 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/diw/teoria/uf1/</guid>
+      <description>Diseño de la interfaz </description>
+    </item>
+    <item>
+      <title>UF2</title>
+      <link>https://icocor.github.io/dawico/en/diw/teoria/uf2/</link>
+      <pubDate>Sat, 20 Nov 2021 11:05:33 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/diw/teoria/uf2/</guid>
+      <description>Elementos multimedia: creación e integración </description>
+    </item>
+    <item>
+      <title>UF3</title>
+      <link>https://icocor.github.io/dawico/en/diw/teoria/uf3/</link>
+      <pubDate>Sat, 20 Nov 2021 11:05:38 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/diw/teoria/uf3/</guid>
+      <description>Accesibilidad y usabilidad </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prática on Esta é a língua potuguesa</title>
+    <link>https://icocor.github.io/dawico/pt/dwes/practicas/</link>
+    <description>Recent content in Prática on Esta é a língua potuguesa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 19:26:00 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/pt/dwes/practicas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T01</title>
+      <link>https://icocor.github.io/dawico/pt/dwes/practicas/t01/</link>
+      <pubDate>Sat, 20 Nov 2021 19:25:45 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/dwes/practicas/t01/</guid>
+      <description>Práctica de HUGO. Debes realizar la instalación y configuración de un entorno de trabajo para programar con JavaScript.
+Para ello tendrás que buscar e instalar en tu sistema operativo 2 navegadores web (adicionales al que ya tienes instalado por defecto) y 1 editor de páginas web. Todas las aplicaciones que instales tendrán que ser gratuitas y tendrás que explicar las razones por las que has elegido tu editor web entre muchos otros.</description>
+    </item>
+    <item>
+      <title>T02</title>
+      <link>https://icocor.github.io/dawico/pt/dwes/practicas/t02/</link>
+      <pubDate>Sat, 20 Nov 2021 19:26:00 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/dwes/practicas/t02/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

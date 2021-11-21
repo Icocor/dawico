@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Este es el idioma Español</title>
+    <link>https://icocor.github.io/dawico/tags/php/</link>
+    <description>Recent content in php on Este es el idioma Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://icocor.github.io/dawico/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> DWES</title>
+      <link>https://icocor.github.io/dawico/dwes/</link>
+      <pubDate>Sat, 20 Nov 2021 19:26:00 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwes/</guid>
+      <description>DWES Desarrollo Web en Entorno Servidor Analizaremos lo que este módulo implica a nivel de objetivos. Objetivos de este módulo y cómo se relaciona con el resto. ¿Qué tecnologías se usan en la web y cuáles usaremos nosotras? Los principales componentes o elementos en una arquitectura web.
+Teoría
+Practica
+   PHP   Wiki  </description>
+    </item>
+  </channel>
+</rss>

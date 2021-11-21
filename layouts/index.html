@@ -1,0 +1,55 @@
+{{- partial "header.html" . }}
+<span id="sidebar-toggle-span">
+<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fas fa-bars"></i> navigation</a>
+</span>
+
+{{if .Site.Home.Content }}
+{{.Site.Home.Content}}
+{{else}}
+    {{if eq .Site.Language.Lang "es"}}
+    <h1>DAWICO</h1>
+    <p>
+        El curso 2021/2022 lo dedicaremos al aprendizaje de cuatro módulos esenciales del Desarrollo Web
+    </p>
+    <ul>
+        <li><b>1. </b> Desarrollo Web en Entorno <b>Servidor</b></li>
+        <li><b>2. </b> Desarrollo Web en Entorno  <b>Cliente</b></li>
+        <li><b>3. </b> Diseño de <b>Interfaces</b> web</li>
+        <li><b>4. </b> Despliegue de <b>Aplicaciones</b> web</li>
+    </ul>
+    {{else if eq .Site.Language.Lang "en"}}
+    <h1>DAWICO</h1>
+    <p>
+        The 2021/2022 course will be dedicated to the learning of four essential modules of Web Development
+    </p>
+    <ul>
+        <li><b>1. </b> Web Development in <b>Server</b> Environment</li>
+        <li><b>2. </b> Web Development in <b>Client</b> Environment</li>
+        <li><b>3. </b> Web <b>Interface</b> Design</li>
+        <li><b>4. </b> Web <b>Application</b> Deployment</li>
+    </ul>
+    {{else if eq .Site.Language.Lang "pt"}}
+    <h1>DAWICO</h1>
+    <p>
+        O curso 2021/2022 será dedicado à aprendizagem de quatro módulos essenciais de Desenvolvimento Web
+    </p>
+    <ul>
+        <li><b>1. </b> Desenvolvimento Web em ambiente de <b>Servidor</b></li>
+        <li><b>2. </b> Desenvolvimento Web em Ambiente de <b>Cliente</b></li>
+        <li><b>3. </b> Desenho de <b>Interface</b> web</li>
+        <li><b>4. </b> Implementação de <b>Aplicações</b> Web</li>
+    </ul>
+    {{else if eq .Site.Language.Lang "fr"}}
+    <h1>DAWICO</h1>
+    <p>
+        Le cours 2021/2022 sera consacré à l'apprentissage de quatre modules essentiels du développement web
+    </p>
+    <ul>
+        <li><b>1. </b> Développement Web dans un Environnement <b>Serveur</b></li>
+        <li><b>2. </b> Développement Web dans un Environnement <b>Client</b></li>
+        <li><b>3. </b> Conception <b>d'interfaces</b> web</li>
+        <li><b>4. </b> Déploiement <b>d'applications</b> web</li>
+    </ul>
+{{ end }}  
+{{ end }}
+{{- partial "footer.html" . }}

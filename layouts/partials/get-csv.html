@@ -1,0 +1,42 @@
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Teléfono</th>
+            <th>Email</th>
+            <th>Fax</th>
+            <th>Horario</th>
+            <th>Descripción</th>
+            <th>Servicios</th>
+            <th>URL</th>
+            <th>Clasificación</th>
+            <th>Calle</th>
+            <th>Geometría</th>
+            <th>Guardia</th>
+            <th>Tipo</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ $url := "http://www.zaragoza.es/sede/servicio/farmacia.csv?tipo=guardia&fecha=20-02-2018.csv" }}
+        {{ $sep := ";" }}
+        {{ range $i, $r := getCSV $sep $url }}
+         <tr>
+             <td>{{ index $r 0 }}</td>
+             <td>{{ index $r 1 }}</td>
+             <td>{{ index $r 2 }}</td>
+             <td>{{ index $r 3 }}</td>
+             <td>{{ index $r 4 }}</td>
+             <td>{{ index $r 5 }}</td>
+             <td>{{ index $r 6 }}</td>
+             <td>{{ index $r 7 }}</td>
+             <td>{{ index $r 8 }}</td>
+             <td>{{ index $r 9 }}</td>
+             <td>{{ index $r 10 }}</td>
+             <td>{{ index $r 11 }}</td>
+             <td>{{ index $r 12 }}</td>
+             <td>{{ index $r 13 }}</td>
+         </tr>
+        {{end}}
+    </tbody>
+  </table>

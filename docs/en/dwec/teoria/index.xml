@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory on This is the English language</title>
+    <link>https://icocor.github.io/dawico/en/dwec/teoria/</link>
+    <description>Recent content in Theory on This is the English language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 06:15:09 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/en/dwec/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UT1</title>
+      <link>https://icocor.github.io/dawico/en/dwec/teoria/ut1/</link>
+      <pubDate>Sun, 07 Nov 2021 06:14:44 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/dwec/teoria/ut1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UT2</title>
+      <link>https://icocor.github.io/dawico/en/dwec/teoria/ut2/</link>
+      <pubDate>Sun, 07 Nov 2021 06:15:09 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/dwec/teoria/ut2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

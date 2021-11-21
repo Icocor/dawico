@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Théorie on Il s&#39;agit de la langue française</title>
+    <link>https://icocor.github.io/dawico/fr/daw/teoria/</link>
+    <description>Recent content in Théorie on Il s&#39;agit de la langue française</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 04:30:24 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/fr/daw/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UF1</title>
+      <link>https://icocor.github.io/dawico/fr/daw/teoria/uf1/</link>
+      <pubDate>Fri, 19 Nov 2021 04:30:24 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/fr/daw/teoria/uf1/</guid>
+      <description>Servidor Web y Transferencia de Archivos 1.- Implantación de arquitectura web</description>
+    </item>
+    <item>
+      <title>UF2</title>
+      <link>https://icocor.github.io/dawico/fr/daw/teoria/uf2/</link>
+      <pubDate>Fri, 19 Nov 2021 04:30:24 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/fr/daw/teoria/uf2/</guid>
+      <description>Servidores de Aplicaciones Web AvertissementSitio en construcción en estos momentos.
+Le agradecemos que mantenga la distancia de seguridad adecuada para que podamos seguir trabajando.
+ </description>
+    </item>
+    <item>
+      <title>UF3</title>
+      <link>https://icocor.github.io/dawico/fr/daw/teoria/uf3/</link>
+      <pubDate>Fri, 19 Nov 2021 04:30:24 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/fr/daw/teoria/uf3/</guid>
+      <description>Aplicaciones Web </description>
+    </item>
+    <item>
+      <title>UF4</title>
+      <link>https://icocor.github.io/dawico/fr/daw/teoria/uf4/</link>
+      <pubDate>Fri, 19 Nov 2021 04:30:24 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/fr/daw/teoria/uf4/</guid>
+      <description>Control de Versiones y Documentación </description>
+    </item>
+  </channel>
+</rss>

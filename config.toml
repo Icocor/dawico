@@ -1,0 +1,130 @@
+baseURL = 'https://icocor.github.io/dawico/'
+languageCode = 'en-us'
+title = 'DAWICO'
+theme = 'relearn'
+defaultContentLanguage = "es"
+
+[Languages]
+[Languages.es]
+title = "Este es el idioma Español"
+weight = 1
+languageName = "Español"
+ContentDir ="content/es"
+
+    [[Languages.es.menu.shortcuts]]
+        name = "<i class='fab fa-github'></i> GitHub"
+        url = "https://github.com/"
+        weight = 50
+
+    [[Languages.es.menu.shortcuts]]
+        name = "<i class='fab fa-leanpub'></i> HUGO"
+        url = "https://gohugo.io/"
+        weight = 40
+
+    [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-school'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com"
+        weight = 20
+    [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> Distancia"
+        url = "https://www.adistanciafparagon.es"
+        weight = 30
+    [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-tags'></i> Etiquetas"
+        url = "/tags"
+        weight = 60
+
+[Languages.en]
+title = "This is the English language"
+weight = 2
+languageName = "English"
+ContentDir ="content/en"
+
+    [[Languages.en.menu.shortcuts]]
+        name = "<i class='fab fa-github'></i> GitHub"
+        url = "https://github.com/"
+        weight = 50
+
+    [[Languages.en.menu.shortcuts]]
+        name = "<i class='fab fa-leanpub'></i> HUGO"
+        url = "https://gohugo.io/"
+        weight = 40
+
+    [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-school'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com"
+        weight = 20
+    [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> Distance"
+        url = "https://www.adistanciafparagon.es"
+        weight = 30
+    [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-tags'></i> Tags"
+        url = "/tags"
+        weight = 60
+
+[Languages.pt]
+title = "Esta é a língua potuguesa"
+weight = 3
+languageName = "Portugues"
+ContentDir ="content/pt"
+
+    [[Languages.pt.menu.shortcuts]]
+        name = "<i class='fab fa-github'></i> GitHub"
+        url = "https://github.com/"
+        weight = 50
+
+    [[Languages.pt.menu.shortcuts]]
+        name = "<i class='fab fa-leanpub'></i> HUGO"
+        url = "https://gohugo.io/"
+        weight = 40
+
+    [[Languages.pt.menu.shortcuts]]
+        name = "<i class='fas fa-school'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com"
+        weight = 20
+    [[Languages.pt.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> Distância"
+        url = "https://www.adistanciafparagon.es"
+        weight = 30
+    [[Languages.pt.menu.shortcuts]]
+        name = "<i class='fas fa-tags'></i> Etiquetas"
+        url = "/tags"
+        weight = 60
+
+[Languages.fr]
+title = "Il s'agit de la langue française"
+weight = 4
+languageName = "Francés"
+ContentDir ="content/fr"
+
+    [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fab fa-github'></i> GitHub"
+        url = "https://github.com/"
+        weight = 50
+
+    [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fab fa-leanpub'></i> HUGO"
+        url = "https://gohugo.io/"
+        weight = 40
+
+    [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-school'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com"
+        weight = 20
+    [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> Distance"
+        url = "https://www.adistanciafparagon.es"
+        weight = 30
+    [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-tags'></i> Étiquettes"
+        url = "/tags"
+        weight = 60
+
+
+
+[params]
+themeVariant = "dawico"
+disableLandingPageButton = true
+alwaysopen = false
+author = "Federico Cortes"

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> DIW on Esta é a língua potuguesa</title>
+    <link>https://icocor.github.io/dawico/pt/diw/</link>
+    <description>Recent content in  DIW on Esta é a língua potuguesa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 11:10:22 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/pt/diw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoría</title>
+      <link>https://icocor.github.io/dawico/pt/diw/teoria/</link>
+      <pubDate>Sat, 20 Nov 2021 11:05:38 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/diw/teoria/</guid>
+      <description>Teoría ÍNDICE POR UNIDADES FORMATIVAS  Introducción
+ UF1. Diseño de la interfaz.
+ Planificación de interfaces gráficas Definición y aplicación de estilos  UF2. Elementos multimedia: creación e integración.
+ Preparación e implantación de contenido multimedia Integración de contenido interactivo  UF3. Accesibilidad y usabilidad.
+ Desarrollo de webs accesibles Desarrollo de webs amigables. Usabilidad  </description>
+    </item>
+    <item>
+      <title>Prática</title>
+      <link>https://icocor.github.io/dawico/pt/diw/practica/</link>
+      <pubDate>Sat, 20 Nov 2021 11:10:22 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/pt/diw/practica/</guid>
+      <description>PRÁCTICAS    Diseño de la interfaz. Estilos  Introducción al diseño Web
+Diseño de una web
+Introducción a CSS
+Elementos de ordenación
+Estilos en línea basados en etiquetas y clases
+Atributos de CSS
+      Servidores de Aplicaciones Web  Contenido multimedia
+Formatos de imágenes y videos
+Formato de video y animación
+jQuery
+   </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is the English language</title>
+    <link>https://icocor.github.io/dawico/en/</link>
+    <description>Recent content on This is the English language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 19:26:00 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> WDSE</title>
+      <link>https://icocor.github.io/dawico/en/dwes/</link>
+      <pubDate>Sat, 20 Nov 2021 19:26:00 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/dwes/</guid>
+      <description>DWES Desarrollo Web en Entorno Servidor Analizaremos lo que este módulo implica a nivel de objetivos. Objetivos de este módulo y cómo se relaciona con el resto. ¿Qué tecnologías se usan en la web y cuáles usaremos nosotras? Los principales componentes o elementos en una arquitectura web.
+Teoría
+Practica
+   PHP   Wiki  </description>
+    </item>
+    <item>
+      <title> DWEC</title>
+      <link>https://icocor.github.io/dawico/en/dwec/</link>
+      <pubDate>Sat, 20 Nov 2021 11:35:08 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/dwec/</guid>
+      <description>DWEC Desarrollo Web en Entorno Cliente Te damos la bienvenida al módulo &amp;ldquo;Desarrollo Web en Entorno Cliente&amp;rdquo; del Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web.
+Dentro de esta plataforma virtual dispondrás de información, orientaciones, herramientas de comunicación (mensajería, foros, chat,&amp;hellip;), contenidos, actividades y valoración de las mismas, que consideramos las más adecuadas para el desarrollo del curso.
+Teoría
+Practica
+   VSCode   JavaScript  </description>
+    </item>
+    <item>
+      <title> DIW</title>
+      <link>https://icocor.github.io/dawico/en/diw/</link>
+      <pubDate>Sat, 20 Nov 2021 11:10:22 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/diw/</guid>
+      <description>DIW Diseño de Interfaces Web El módulo de diseño de interfaces web contiene parte de la formación necesaria para desempeñar la función de desarrollador de aplicaciones web.
+El diseño de interfaces incluye aspectos como:
+ La planificación de la interfaz web de acuerdo con las especificaciones del diseño. La creación y el mantenimiento de los elementos de la interfaz. La aplicación de las guías de estilo. El cumplimiento de los criterios de accesibilidad y usabilidad en el desarrollo de aplicaciones web.</description>
+    </item>
+    <item>
+      <title> DAW</title>
+      <link>https://icocor.github.io/dawico/en/daw/</link>
+      <pubDate>Fri, 19 Nov 2021 06:01:19 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/daw/</guid>
+      <description>DAW Despliegue de Aplicaciones Web En este módulo profesional, veremos aspectos como los procesos de implantación de aplicaciones web en servidores de aplicaciones, los procesos de instalación, configuración y uso de herramientas de control de versiones, generación de documentación y la evaluación de los recursos y requerimientos técnicos necesarios para la implantación de una web.
+Teoría
+Practica
+   Apache   Tomcat   JDK  </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prácticas on Este es el idioma Español</title>
+    <link>https://icocor.github.io/dawico/dwec/practica/</link>
+    <description>Recent content in Prácticas on Este es el idioma Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 11:35:08 +0100</lastBuildDate><atom:link href="https://icocor.github.io/dawico/dwec/practica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T01</title>
+      <link>https://icocor.github.io/dawico/dwec/practica/t01/</link>
+      <pubDate>Sat, 20 Nov 2021 11:35:08 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/practica/t01/</guid>
+      <description>Instalación y configuración de entorno de trabajo. Debes realizar la instalación y configuración de un entorno de trabajo para programar con JavaScript.
+Para ello tendrás que buscar e instalar en tu sistema operativo 2 navegadores web (adicionales al que ya tienes instalado por defecto) y 1 editor de páginas web. Todas las aplicaciones que instales tendrán que ser gratuitas y tendrás que explicar las razones por las que has elegido tu editor web entre muchos otros.</description>
+    </item>
+    <item>
+      <title>T02</title>
+      <link>https://icocor.github.io/dawico/dwec/practica/t02/</link>
+      <pubDate>Sat, 20 Nov 2021 11:35:08 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/dwec/practica/t02/</guid>
+      <description>Realizar aplicación en Javascript.   Apartado 1
+Realizar una pequeña aplicación en JavaScript que muestre lo siguiente:
+   Tabla de multiplicar del 7
+  Tabla de sumar del 8
+  Tabla de dividir del 9
+   Utilizar los tres tipos de bucles que hay en JavaScript (para cada número un tipo de bucle diferente).
+Apartado 2
+Sabiendo que cuando desplazamos 1 bit a la derecha dividimos un entero por 2 y cuando lo desplazamos a la izquierda estamos multiplicando por 2.</description>
+    </item>
+  </channel>
+</rss>

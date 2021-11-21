@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>despliegue on This is the English language</title>
+    <link>https://icocor.github.io/dawico/en/tags/despliegue/</link>
+    <description>Recent content in despliegue on This is the English language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://icocor.github.io/dawico/en/tags/despliegue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> DAW</title>
+      <link>https://icocor.github.io/dawico/en/daw/</link>
+      <pubDate>Fri, 19 Nov 2021 06:01:19 +0100</pubDate>
+      <guid>https://icocor.github.io/dawico/en/daw/</guid>
+      <description>DAW Despliegue de Aplicaciones Web En este módulo profesional, veremos aspectos como los procesos de implantación de aplicaciones web en servidores de aplicaciones, los procesos de instalación, configuración y uso de herramientas de control de versiones, generación de documentación y la evaluación de los recursos y requerimientos técnicos necesarios para la implantación de una web.
+Teoría
+Practica
+   Apache   Tomcat   JDK  </description>
+    </item>
+  </channel>
+</rss>
